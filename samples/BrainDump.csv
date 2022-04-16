@@ -1,0 +1,404 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task
+38330760681100,2015-06-18,,2022-04-15,Sensu Check: Client Keepalive,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38330760681093,2015-06-18,,2022-04-15,Sensu Client : remote server configuration setup,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38874426003420,2015-06-23,,2022-04-15,Remote Monitor,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38874426003424,2015-06-23,,2022-04-15,Update git sensu-checks,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38874426003416,2015-06-23,,2022-04-15,Grafana Dashboard,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38874426003426,2015-06-23,,2022-04-15,Update git sensu-docker,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38874426003428,2015-06-23,,2022-04-15,Create docker sensu-server (jimsander),(no section),Jim Sander,asana_user@jimsander.net,,,,"docker io or some shit
+
+","BrainDump,DCM-Sensu",
+38874426003430,2015-06-23,,2022-04-15,sensu run as user,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38874426003414,2015-06-23,,2022-04-15,Publish/Register Docker images ,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+15328349794967,2014-08-06,2014-09-09,2022-04-15,Add Install for ec2-ami-tools in imageServer,(no section),Jim Sander,jimsander@jimsander.net,,2014-08-08,,http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ami-tools.html,BrainDump,FogBugz (4866 and 4616) : Instance Store 
+38330760681095,2015-06-18,,2022-04-15,Sensu Confluence Documentation Update,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+78318394384380,2016-01-06,,2022-04-15,Android Studio Course,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaRoboCallTroll",
+137388891240931,2016-05-26,,2022-04-15,Secure Access,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaJobTracker",
+137388891240925,2016-05-26,,2022-04-15,Create Assignees,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaJobTracker",
+137388891240927,2016-05-26,,2022-04-15,Create Customers,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaJobTracker",
+137388891240929,2016-05-26,,2022-04-15,Notification methods,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaJobTracker",
+137388891240923,2016-05-26,,2022-04-15,Fast and Easy Job Entry,(no section),Jim Sander,asana_user@jimsander.net,,,,Fields Autofill based on patterns,"BrainDump,JDSMediaJobTracker",
+137388891240933,2016-05-26,,2022-04-15,"Import Object (customers, people, etc)",(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaJobTracker",
+137599905563591,2016-05-26,2016-06-02,2022-04-15,Web: Prototype new site for GoABC.biz,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+137388891240948,2016-05-26,2016-05-31,2022-04-15,Rackspace: Disable daily file backups on RapidResults,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+137611817812071,2016-05-26,2016-05-26,2022-04-15,Rackspace Storage Cleanup,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+137666292839448,2016-05-26,2016-05-26,2022-04-15,"Fixed IP address [#16168-1296#] - jimsander@jimsander.net - JDS Media, Inc Mail",(no section),Jim Sander,asana_user@jimsander.net,,,,"https://mail.google.com/mail/u/0/#search/ecpi+ip/1442c8b2fd8a99dc?compose=154edb5075452dc5
+",BrainDump,
+137599955949215,2016-05-26,,2022-04-15,Prototype New Site for : Austin CPA | Financial Business Consulting Firm - Applied Business Concepts,(no section),Jim Sander,asana_user@jimsander.net,,,,"http://goabc.biz/
+","BrainDump,Webhosting Stuff",
+139652700075434,2016-06-02,,2022-04-15,ENOM API: BULK LIST/MODIFY Domains,(no section),Jim Sander,asana_user@jimsander.net,,,,Clean up those auto-renews,"BrainDump,Webhosting Stuff",
+139674348957435,2016-06-02,2016-06-04,2022-04-15,Replace Grill and Emblem,(no section),Jim Sander,asana_user@jimsander.net,,,,"Need Glue for Emblem and Wax for grill mounting base
+","BrainDump,Personal",
+268588320652618,2017-02-09,2017-02-09,2022-04-15,TestThis Integration,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+246899765106185,2017-01-13,2017-02-09,2022-04-15,Bathroom: Tile Fixtures,(no section),Jim Sander,asana_user@jimsander.net,,,,"http://www.popularmechanics.com/home/interior-projects/how-to/a8751/how-to-mount-a-shelf-on-a-tile-wall-15179965/
+
+Bosch Drill Bits
+Toggler.com Anchors",BrainDump,
+38189892311364,2015-06-17,2017-02-23,2022-04-15,Setup DCM on a digital drop,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+38189892311363,2015-06-17,,2022-04-15,Learn Go,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+137574524351836,2016-05-26,2017-02-23,2022-04-15,[CAS-73] Deploy DIB Production instance - Dell Labs JIRA,(no section),Jim Sander,asana_user@jimsander.net,,,,"https://jira.labs.dell.com/browse/CAS-73
+",BrainDump,
+12681303619369,2014-05-28,2015-06-18,2022-04-15,Follow Up on Refund : Elisa Elgin Tax,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Personal",
+12681303619367,2014-05-28,2015-06-18,2022-04-15,Follow Up on Sprint Charges on Amplify : Marcias??,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Personal",
+137388891240879,2016-05-26,,2022-04-15,DD-WRT IP settings and DNS setup,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+137388891240881,2016-05-26,,2022-04-15,DNS Setupbr,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,DD-WRT IP settings and DNS setup
+137388891240883,2016-05-26,,2022-04-15,Update Firmware fot TP-Link,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,DD-WRT IP settings and DNS setup
+137388891240874,2016-05-26,,2022-04-15,Research Arlo camera,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+117190422664804,2016-04-26,,2022-04-15,Setup AutoBill for PRSAtlanta :: PayPal??,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+137570732872569,2016-05-26,,2022-04-15,Chrome SAML extension,(no section),Jim Sander,asana_user@jimsander.net,,,,Need a SAML debugger,BrainDump,
+38874426003412,2015-06-23,2016-01-30,2022-04-15,Unisys Brazil: Fix KM - broke since DNS fix,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+47029361098695,2015-08-26,2016-02-02,2022-04-15,Buy Taco Ingredients,(no section),nicole cantu,nicky.cantoo@gmail.com,,,,,BrainDump,
+58890429704650,2015-10-18,,2022-04-15,Ubuntu Mail Gateway,(no section),Jim Sander,asana_user@jimsander.net,,,,http://www.compressedmatter.com/guides/2009/11/4/guide-using-ubuntu-as-a-mail-gateway.html,"BrainDump,JDSMediaNoSpam Ninja",
+9894830572294,2014-01-29,2015-06-24,2022-04-15,DCM: FB3861 : Migrate Hosted,(no section),Jim Sander,asana_user@jimsander.net,,,,https://enstratus.fogbugz.com/default.asp?3861,BrainDump,
+38189892311365,2015-06-17,2015-06-24,2022-04-15,Sensu Plugin for runsv and supervisor,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,DCM-Sensu",
+38189892311362,2015-06-17,,2022-04-15,"Implement CoreOS ""etcd"" key/value store acoss cluster",(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9894599609045,2014-01-29,2015-06-12,2022-04-15,EC2 bundle issue,(no section),Jim Sander,asana_user@jimsander.net,,2014-01-29,,"Instance Store: ami-3d2b1454 fails to bundle
+EBS: ami-8f2718e6 is okay",BrainDump,
+9894830572288,2014-01-29,,2022-04-15,jdsImageTest1,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,EC2 bundle issue
+15335680189823,2014-08-06,,2022-04-15,,(no section),,,,,,,BrainDump,Web: Begin RapidResults Conversion
+15335680189821,2014-08-06,,2022-04-15,Sync files to jdsdrop1,(no section),,,,,,,BrainDump,Web: Begin RapidResults Conversion
+15335423064408,2014-08-06,,2022-04-15,github setup,(no section),,,,,,,BrainDump,Setup jimsander.net on Droplet (jdsdrop1)
+15328349795003,2014-08-06,,2022-04-15,www.jdsmedia.net,(no section),,,,,,,BrainDump,Setup jimsander.net on Droplet (jdsdrop1)
+15328349795001,2014-08-06,,2022-04-15,www.jimsander.net,(no section),,,,,,,BrainDump,Setup jimsander.net on Droplet (jdsdrop1)
+15328349794969,2014-08-06,,2022-04-15,Fail : sudo -E ,(no section),,,,,,"sudo -E cmd becomes sudo env PATH=<...> -E cmd
+",BrainDump,FogBugz (4866 and 4616) : Instance Store 
+15328349794972,2014-08-06,,2022-04-15,,(no section),,,,,,,BrainDump,FogBugz (4866 and 4616) : Instance Store 
+9894599609046,2014-01-29,2014-05-28,2022-04-15,Document: migration to Hosted Env,(no section),Jim Sander,asana_user@jimsander.net,,2014-01-30,,,BrainDump,
+9894830572283,2014-01-29,2014-05-28,2022-04-15,Agent: Bug - service arg ,(no section),Jim Sander,asana_user@jimsander.net,,,,"# service tomcat-enstratus
+/etc/init.d/tomcat-enstratus: line 16: $1: unbound variable
+root@ip-10-180-222-189:/tmp# service tomcat-enstratus start
+Using CATALINA_BASE:   /enstratus/ws/tomcat
+Using CATALINA_HOME:   /enstratus/ws/tomcat
+Using CATALINA_TMPDIR: /enstratus/ws/tomcat/temp
+Using JRE_HOME:       /usr/lib/jvm/java-6-openjdk-amd64",BrainDump,
+9934893491840,2014-01-30,2014-05-28,2022-04-15,call IRS about monthly withdrawals or EFTPS,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+10465096935496,2014-02-22,2014-05-28,2022-04-15,STR Registration ($285),(no section),Jim Sander,asana_user@jimsander.net,,2014-02-28,,"http://www.austintexas.gov/sites/default/files/files/Code_Compliance/STRs/STR_TYPE_1_PRIMARY-ver2.pdf
+
+http://www.austintexas.gov/str
+","BrainDump,Riverview STR",
+9690400646510,2014-01-20,2014-05-28,2022-04-15,CSE: Dave Mao: Support Templates,(no section),Jim Sander,asana_user@jimsander.net,,,,"How to update
+
+",BrainDump,
+9690400646511,2014-01-20,2014-05-28,2022-04-15,Nike: expand on FB3030 ,(no section),Jim Sander,asana_user@jimsander.net,,,,https://enstratus.fogbugz.com/default.asp?3030,BrainDump,
+10528843749741,2014-02-25,2014-05-28,2022-04-15,Pool Pump Timer,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9940474146232,2014-01-31,2014-05-28,2022-04-15,Monitoring Server,(no section),Jim Sander,asana_user@jimsander.net,,,,"Standup a central monitoring server, for now Nagios, will most likely be changed to a Dell product like Foglight (another Quest product)
+",BrainDump,
+10624296462604,2014-02-28,2014-03-03,2022-04-15,Permit Dept - planning and dev review,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+10465096935504,2014-02-22,2014-02-27,2022-04-15,certificate of occupancy,(no section),Jim Sander,asana_user@jimsander.net,,2014-02-26,,Call City Planning :  512-978-4000 press 2; then press 3 to request a copy.,"BrainDump,Riverview STR",
+10465096935502,2014-02-22,2014-02-26,2022-04-15,Cable Companies,(no section),Jim Sander,asana_user@jimsander.net,,,,"remove their wires
+- grande
+- AT&T / SW&B","BrainDump,Riverview STR",
+9637931519130,2014-01-17,2014-02-26,2022-04-15,Call Atlantic Financial,(no section),Jim Sander,asana_user@jimsander.net,,,,"(207)828-1080
+Loan Number: 9777003470
+
+
+
+","BrainDump,Personal",
+10034078557680,2014-02-04,2014-02-25,2022-04-15,GAP POC,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9637931519131,2014-01-17,2014-02-25,2022-04-15,Nike: close FB: 3482,(no section),Jim Sander,asana_user@jimsander.net,,,,"https://enstratus.fogbugz.com/default.asp?3482
+
+",BrainDump,
+9940474146229,2014-01-31,2014-02-25,2022-04-15,Download Windows ISO,(no section),Jim Sander,asana_user@jimsander.net,,,,"https://s3.amazonaws.com/osd-src/OS/MS/en_windows_7_ultimate_n_with_sp1_x64_dvd_u_677543.iso
+HQBB8-VY9XT-MXMVF-BBRD4-BQ4P8",BrainDump,
+9615244847014,2014-01-16,2014-01-29,2022-04-15,Call Amplify: Where's my loan app?,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9615244847015,2014-01-16,2014-01-29,2022-04-15,Austin Regional Clinic,(no section),Jim Sander,asana_user@jimsander.net,,2014-01-17,,,BrainDump,
+9637931519121,2014-01-17,2014-01-29,2022-04-15,Fitness Form for Aetna,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Austin Regional Clinic
+9637931519123,2014-01-17,2014-01-29,2022-04-15,Shoulder pain,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Austin Regional Clinic
+9637931519125,2014-01-17,,2022-04-15,Vasectomy ,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Austin Regional Clinic
+188815763699773,2016-09-29,,2022-04-15,tape up windows doors (protect from spray paint),(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Paint Front
+188437688961796,2016-09-29,,2022-04-15,tape up windows doors (protect from spray paint),(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,paint
+188437688961784,2016-09-29,,2022-04-15,paint,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+188437688961794,2016-09-29,,2022-04-15,curtain off porch so can spray paint,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,paint
+188437688961760,2016-09-29,,2022-04-15,Adjust center pier,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+188437688961786,2016-09-29,,2022-04-15,replace steps,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+188437688961752,2016-09-29,,2022-04-15,Temp Sink,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+184726065118389,2016-09-26,,2022-04-15,Remove,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Tile replacement and Grout 
+188437688961756,2016-09-29,,2022-04-15,sand,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+184726065118388,2016-09-26,,2022-04-15,Replace,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Tile replacement and Grout 
+184726065118385,2016-09-26,,2022-04-15,Mud,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,coffee backsplash
+184726065118387,2016-09-26,,2022-04-15,Grout,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Tile replacement and Grout 
+184726065118384,2016-09-26,,2022-04-15,Paint,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,coffee backsplash
+184543969114880,2016-09-21,,2022-04-15,Use Readme.io for documentation,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,FarmBot",
+184543969114868,2016-09-21,,2022-04-15,Install Google Coder,(no section),Jim Sander,asana_user@jimsander.net,,,,http://googlecreativelab.github.io/coder/,"BrainDump,Skycam : PI ",
+184543969114872,2016-09-21,,2022-04-15,GIT CLONE REPO for https://farmbot-software.readme.io/docs/raspberry-pi-software,(no section),Jim Sander,asana_user@jimsander.net,,,,git clone https://github.com/FarmBot/farmbot-raspberry-pi-controller,"BrainDump,FarmBot",
+184543969114863,2016-09-21,2016-09-21,2022-04-15,[Converted to project] Skycam : PI ,(no section),Jim Sander,asana_user@jimsander.net,,,,http://makezine.com/projects/3d-printed-raspberry-pi-skycam/?utm_source=MakeNewsletter+20160920&utm_medium=email&utm_content=headline&utm_campaign=newsletter,"BrainDump,JDSMediaRoboCallTroll",
+76760712490259,2015-12-30,2016-07-21,2022-04-15,determine ,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin-Bathroom",
+12681303619365,2014-05-28,2015-06-18,2022-04-15,Respond to emails,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Personal",
+188437688961790,2016-09-29,2022-04-12,2022-04-15,Trim west/back bushes,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+188437688961772,2016-09-29,2022-04-12,2022-04-15,Replace Door,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+184726065118386,2016-09-26,2022-04-12,2022-04-15,Tile replacement and Grout ,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+186296592629668,2016-09-29,2022-04-12,2022-04-15,Mudding,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+184726065118382,2016-09-26,2022-04-12,2022-04-15,coffee backsplash,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+47107695160900,2015-08-27,2022-04-12,2022-04-15,Configure Bluetooth Dongle,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Personal",
+12681303619371,2014-05-28,2022-04-12,2022-04-15,Project_BluetoothProximity:,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Personal",
+47107695160908,2015-08-27,2022-04-12,2022-04-15,Connect first device,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Personal",
+66180942362095,2015-11-16,2022-04-12,2022-04-15,DD-WRT ISP Failover Script,(no section),Jim Sander,asana_user@jimsander.net,,,,Failover to Cellular http://www.dd-wrt.com/wiki/index.php/Dual_WAN_with_failover,"BrainDump,Personal",
+38960564300901,2017-07-28,2022-04-12,2022-04-15,huh,(no section),Jim Sander,asana_user@jimsander.net,,,,huh? https://www.psychologytoday.com/blog/how-happiness/201212/why-the-passion-goes-out-relationships,"BrainDump,Personal",
+188437688961780,2016-09-29,,2022-04-15,Direct AC drip to ground container,(no section),Jim Sander,asana_user@jimsander.net,,,,Connect the AC drip line to the grey-water line,"BrainDump,Elgin Cleanup",
+188437688961758,2016-09-29,,2022-04-15,BackDoor Pier,(no section),Jim Sander,asana_user@jimsander.net,,,,remove planks for pier adjustment under backdoor,"BrainDump,Elgin Cleanup",
+188437688961788,2016-09-29,,2022-04-15,Rebuild Railing,(no section),Jim Sander,asana_user@jimsander.net,,,,4x4s are old and wobbly,"BrainDump,Elgin Cleanup",
+193444992560995,2016-10-08,2018-02-02,2022-04-15,"3/8"" OD cut off",(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+193444992560994,2016-10-08,2018-02-02,2022-04-15,Filters: GE FX12P FX12M replacement filter Combo set for GXRM10RBL RO system,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+417961543596268,2017-08-29,,2022-04-15,nginx on swarm,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+395445495097487,2017-07-28,2017-08-08,2022-04-15,reread this,(no section),Jim Sander,asana_user@jimsander.net,,,,interesting,BrainDump,
+288093029896128,2017-03-07,2017-04-21,2022-04-15,Charon Pipeline Port,(no section),Jim Sander,asana_user@jimsander.net,,,,https://jira.labs.quest.com/browse/DO-76,"BrainDump,Work tasks",
+326841584598557,2017-04-24,,2022-04-15,Nicole: Workshop Idea,(no section),Jim Sander,asana_user@jimsander.net,,,,These guys: cedargardenrooms.com,BrainDump,
+302522170199093,2017-03-24,,2022-04-15,"“Docker tutorial""",(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+288093029896130,2017-03-07,,2022-04-15,ODS Infrastructure,(no section),Jim Sander,asana_user@jimsander.net,,,,https://jira.labs.quest.com/browse/DO-75,"BrainDump,Work tasks",
+288093025708916,2017-03-07,,2022-04-15,Injest s4b logstash,(no section),Jim Sander,asana_user@jimsander.net,,,,https://jira.labs.quest.com/browse/DO-73,"BrainDump,Work tasks",
+246852435242872,2017-01-13,2017-03-07,2022-04-15,Charon: publishProfile,(no section),Jim Sander,asana_user@jimsander.net,,,,How to here,BrainDump,
+137388891240895,2016-05-26,,2022-04-15,Requested GIT access 05.25 ,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,OSCM Installation script
+92238494206991,2016-02-20,2016-04-26,2022-04-15,Big Oak,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Trim Trees
+92238494207006,2016-02-22,2016-04-26,2022-04-15,Cover plate,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Kitchen Outlet - 2 GFCI Outlets
+92238494207008,2016-02-22,2016-04-26,2022-04-15,Connect lines,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Kitchen Outlet - 2 GFCI Outlets
+92238494207012,2016-02-22,2016-04-26,2022-04-15,secure lines to joist,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Kitchen Outlet - 2 GFCI Outlets
+99168409529550,2016-03-09,2016-04-26,2022-04-15,ADFS Setup,(no section),Jim Sander,asana_user@jimsander.net,,,,https://blogs.technet.microsoft.com/askpfeplat/2013/12/08/how-to-build-your-adfs-lab-on-server-2012-part-1/,BrainDump,
+92238494207022,2016-02-22,,2022-04-15,OpenHab Examples,(no section),Jim Sander,asana_user@jimsander.net,,,,http://jpmens.net/2014/01/14/a-story-of-home-automation/,"BrainDump,OpenHAB Stuff",
+92238494207024,2016-02-22,,2022-04-15,MQTT,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,OpenHab Examples
+92238494207026,2016-02-22,,2022-04-15,Youless Energy Meter,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,OpenHab Examples
+92238494207014,2016-02-22,,2022-04-15,How to intercept android calls,(no section),Jim Sander,asana_user@jimsander.net,,,,See: http://www.learn-android-easily.com/2012/11/how-to-handle-incoming-calls-in-android.html,"BrainDump,JDSMediaRoboCallTroll",
+92238494207017,2016-02-22,,2022-04-15,http://www.codeproject.com/Articles/548416/Detecting-incoming-and-outgoing-phone-calls-on-And,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,How to intercept android calls
+92238494206993,2016-02-20,,2022-04-15,Bushes along fence line,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Trim Trees
+86326458424092,2016-02-02,,2022-04-15,Pay ARC $412.13 ,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Pay Colonoscopy Bills with HSA
+86326458424090,2016-02-02,,2022-04-15,How to do HSA,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Pay Colonoscopy Bills with HSA
+86326458424094,2016-02-02,,2022-04-15,Pay CPA (clinical Pathology) $271.10,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Pay Colonoscopy Bills with HSA
+193444992560993,2016-10-08,,2022-04-15,HWList:,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+404287949866368,2017-08-08,2017-08-08,2022-04-15,Show this completed,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+403297777859303,2017-08-07,2017-08-08,2022-04-15,Remove left column,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+403297777859305,2017-08-07,2017-08-07,2022-04-15,Renew Cert ,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+188437688961792,2017-03-07,,2022-04-15,Drain pond,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+188437688961774,2016-09-29,2017-03-07,2022-04-15,FrontPorch,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+58890429704655,2017-02-23,,2022-04-15,Terraform to Digital Ocean,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaNoSpam Ninja",
+137388891240889,2016-05-26,2017-02-23,2022-04-15,OSCM Installation script,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+137388891240893,2016-05-26,,2022-04-15,Need to put script in `Statsh` source control ,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,OSCM Installation script
+137388891240891,2016-05-26,2017-02-23,2022-04-15,"Require GIT, Wiki and Jira access WAITING FOR SUPPORT",(no section),Jim Sander,asana_user@jimsander.net,,2016-05-27,,https://jira.labs.dell.com/servicedesk/customer/portal/1/DLOPS-11146,BrainDump,
+76760712490247,2015-12-30,,2022-04-15,shower:,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin-Bathroom",
+188815763699768,2016-09-29,,2022-04-15,Paint Front,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin Cleanup",
+188815763699771,2016-09-29,,2022-04-15,curtain off porch so can spray paint,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Paint Front
+9548140261242,2014-01-13,,2022-04-15,volume creation ,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Informatica : server_product 
+85740898610944,2016-02-01,,2022-04-15,change TX DL,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,OLD Address: change documents
+85740898610942,2016-02-01,,2022-04-15,change TRUCK title,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,OLD Address: change documents
+78318394384372,2016-01-06,,2022-04-15,CNAM lookup: http://www.opencnam.com/dashboard,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaRoboCallTroll",
+78318394384376,2016-01-06,,2022-04-15,How to build and publish apps (Android/iPhone),(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaRoboCallTroll",
+78318394384378,2016-01-06,,2022-04-15,Billing: Stripe,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaRoboCallTroll",
+78318394384374,2016-01-06,,2022-04-15,Buzzwords in Advertising,(no section),Jim Sander,asana_user@jimsander.net,,,,"Dial Up
+Sustainable
+
+","BrainDump,JDSMediaRoboCallTroll",
+76971535467053,2016-01-03,,2022-04-15,"drop down to 1 1/2"" to floor",(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Sink drains
+76971535467051,2016-01-03,,2022-04-15,"1 1/4"" connection in wall",(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Sink drains
+76760712490263,2015-12-30,,2022-04-15,locate half-walls,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,build shower pan
+66180942362093,2015-11-16,2015-11-16,2022-04-15,Unisys DOI: Upgrade to 11.15.13,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+76760712490261,2015-12-30,,2022-04-15,cut joists,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,build shower pan
+63524535685286,2015-11-04,,2022-04-15,justJeeps,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Cleanup Rackspace directories
+63524535685284,2015-11-04,,2022-04-15,TomAndSusan,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Cleanup Rackspace directories
+63524535685280,2015-11-04,,2022-04-15,Stirlings / SJR stuff,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Cleanup Rackspace directories
+63524535685282,2015-11-04,,2022-04-15,RapidResults Move ,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Cleanup Rackspace directories
+58890429704653,2015-10-19,,2022-04-15,Digital Ocean API - Create drops on the fly,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaNoSpam Ninja",
+47232048477072,2015-08-28,,2022-04-15,imap/pop configuration,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaNoSpam Ninja",
+47232048477070,2015-08-28,,2022-04-15,email interface ,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaNoSpam Ninja",
+47232048477068,2015-08-28,,2022-04-15,multiple domains to choose from,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaNoSpam Ninja",
+76760712490257,2015-12-30,2016-07-21,2022-04-15,cut joists ,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin-Bathroom",
+76760712490249,2015-12-30,2016-07-21,2022-04-15,Determine shower head configuration,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin-Bathroom",
+76760712490251,2015-12-30,2016-07-21,2022-04-15,build shower pan,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin-Bathroom",
+76760712490275,2015-12-30,2016-07-21,2022-04-15,Sink drains,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin-Bathroom",
+76760712490271,2015-12-30,2016-07-21,2022-04-15,Sink water supply,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Elgin-Bathroom",
+158116060290473,2016-07-21,,2022-04-15,Research Service: ServiceM8,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaJobTracker",
+1202116788937610,2022-04-12,2022-04-12,2022-04-15,1099-austin,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,taxes_2021
+1202116788937611,2022-04-12,2022-04-12,2022-04-15,1099-coinbase,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,taxes_2021
+1202116788937612,2022-04-12,2022-04-13,2022-04-15,w2-quest,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,taxes_2021
+38330760681132,2015-06-18,,2022-04-15,Learn: Gridster - Graph building,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+1202116788937618,2022-04-12,,2022-04-15,new logical volume of 7TB (or whatever size),(no section),,,,,,,BrainDump,jdsnas1 Backup
+1202116788937619,2022-04-12,,2022-04-15,sv task to run constantly (or syncthing),(no section),,,,,,rsync -azv -LRr  /mnt/jdsnas1/JDS2TB1 /mnt/jdsnas1_backup,BrainDump,jdsnas1 Backup
+15501905974017,2014-08-14,,2022-04-15,WebShit: fix technican page for PRSAtlanta,(no section),Jim Sander,asana_user@jimsander.net,,,,Once fixed. Start charging monthly.,"BrainDump,JDSMediaJobTracker",
+404287949866369,2017-08-08,2022-04-12,2022-04-15,captcha for registrations,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+404287949866367,2017-08-08,2022-04-12,2022-04-15,"Add left widget ""Looking for member options"" if navigated away from member page",(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+403297777859306,2017-08-08,2022-04-12,2022-04-15,"Update 'Member Options"" page for new subscribers",(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+404287949866366,2017-08-08,2022-04-12,2022-04-15,Add mailout link for LAB to auto enable new subscribers,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+403297777859304,2017-08-07,2022-04-12,2022-04-15,fromLAB: new Logo (from Laurie),(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Webhosting Stuff",
+387933876931991,2017-07-18,2022-04-12,2022-04-15,DevStuff: Blockchain reading,(no section),Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+326831488326315,2017-04-24,2022-04-12,2022-04-15,Home: Upstairs Flooring: Estimate Cost,(no section),Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+1202116753119103,2022-04-12,,2022-04-15,How to delete this profile,(no section),Test User1,test1_user@jimsander.net,,,,"This guy doesn't exist
+
+",BrainDump,
+47232048477066,2015-08-28,,2022-04-15,users suggest domains,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,JDSMediaNoSpam Ninja",
+47107695160898,2015-08-27,2015-08-27,2022-04-15,Bluetooth Dongle for Raspberry,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Personal",
+44723461541545,2015-08-07,2015-08-07,2022-04-15,Side Column mount,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Install the Gate Lock
+44723461541547,2015-08-07,2015-08-07,2022-04-15,Connect to board,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Install the Gate Lock
+44723461541549,2015-08-07,,2022-04-15,Run/Hide wire inside the gate tubes ,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,Install the Gate Lock
+12681303619357,2014-05-28,2015-06-18,2022-04-15,Muay Thai @ 7pm,(no section),Jim Sander,asana_user@jimsander.net,,2014-05-28,,,"BrainDump,Personal",
+12681303619359,2014-05-28,2015-06-18,2022-04-15,CF @ 6pm,(no section),Jim Sander,asana_user@jimsander.net,,2014-05-28,,,"BrainDump,Personal",
+9637931519132,2014-01-17,2014-01-31,2022-04-15,Nike: Support Links,(no section),Jim Sander,asana_user@jimsander.net,,,"client_nike,DSG",,BrainDump,
+1202127992005788,2022-04-14,,2022-04-15,Consider updating your project progress,(no section),Jim Sander,asana_user@jimsander.net,,2022-04-15,,"Update your project progress to keep stakeholders and teammates on the same page
+
+These projects need a progress update:
+https://app.asana.com/0/9548140261224/progress",BrainDump,
+1202116788937607,2022-04-12,,2022-04-15,taxes_2021,(no section),Jim Sander,asana_user@jimsander.net,,2022-04-18,,Use folder file:/// jdsnas1,"BrainDump,Taxes_2021",
+1202120127604516,2022-04-12,,2022-04-15,Ask: Feb2021 Winter Federal Disaster expenses ,(no section),Jim Sander,asana_user@jimsander.net,,,,,"BrainDump,Taxes_2021",taxes_2021
+1202116788937609,2022-04-12,,2022-04-15,1099-elgin,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,taxes_2021
+1202127452630878,2022-04-14,,2022-04-15,Ask: QBI Safe Harbor,(no section),,,,,,,BrainDump,taxes_2021
+1202127452630879,2022-04-14,,2022-04-15,Find: Rental Spreadsheet by Mariano,(no section),,,,,,,BrainDump,taxes_2021
+1202120127604533,2022-04-13,,2022-04-15,Retirement Distributions includes both instituions?? Does it make a difference,(no section),,,,,,,"BrainDump,Taxes_2021",
+1202120127604531,2022-04-13,,2022-04-15,QBI ,(no section),,,,,,,"BrainDump,Taxes_2021",
+1202120127604529,2022-04-13,,2022-04-15,2021 Disaster Relief (Winter Freeze Repairs on Elgin),(no section),,,,,,,"BrainDump,Taxes_2021",
+137388891240873,2016-05-26,2022-04-13,2022-04-15,Work: OSCM -> DiB,(no section),Jim Sander,asana_user@jimsander.net,,2016-05-26,work,,BrainDump,
+12681303619355,2014-05-28,2015-08-26,2015-08-26,Fix Faucet,(no section),Jim Sander,asana_user@jimsander.net,,,,Batthub faucet,BrainDump,
+38330760681104,2015-06-18,2015-06-24,2022-04-12,Home: Septic Cleanout then inspect,(no section),Jim Sander,asana_user@jimsander.net,,,,"Burghs Septic: (512) 303-6922 for cleanout
+Oscars Cleanout: (512) 484-5290
+Moreland: (512) 801-6177 for inspect/repair
+",BrainDump,
+85740898610969,2016-02-01,2016-02-01,2022-04-12,Republic Services using 2214,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+85698213866334,2016-01-30,2016-07-21,2022-04-12,AWS Cert !! Study !!,(no section),Jim Sander,asana_user@jimsander.net,,,,"One-time voucher code for 50% off the AWS Certified Solutions Architect - Professional Exam: MKC50SAPro215. Click here to register for your exam.
+
+http://aws.amazon.com/certification/certified-solutions-architect-professional/
+",BrainDump,
+85698213866326,2016-01-30,2016-02-01,2022-04-12,Nature's Own Services - Close Out,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-01,,,BrainDump,
+85740898610909,2016-02-01,2016-11-07,2016-11-07,IRS - Using 2214 for JDS Media,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-01,,"Also, some balance owed? Send to ABC
+
+",BrainDump,
+86326458424088,2016-02-02,2016-02-08,2016-02-08,Pay Colonoscopy Bills with HSA,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-05,,,BrainDump,
+86326458424107,2016-02-02,2016-02-02,2022-04-12,IceMaker Fixed,(no section),Jim Sander,asana_user@jimsander.net,,,,"
+",BrainDump,
+86326458424086,2016-02-02,2016-02-03,2016-02-03,Azulle PC,(no section),Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+86326458424076,2016-02-02,2022-04-12,2022-04-12,PERS: North Austin Urology ,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-03,,"Schedule it!
+
+",BrainDump,
+85740898610906,2016-02-01,2016-11-03,2016-11-03,Taxes 2015,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-01,,"Gather docs send to ABC
+- get BIZ expenses, including education costs
+
+",BrainDump,
+85740898610913,2016-02-01,2016-02-01,2022-04-12,AmericanHomeShield - IceMaker,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-01,,,BrainDump,
+85740898610919,2016-02-01,2016-02-01,2016-02-01,Script Estimate,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-01,work,,BrainDump,
+85698213866332,2016-01-30,2016-02-01,2022-04-12,"1/2"" pex to pvc adapters 2xHW 2xCW",(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+85698213866330,2016-01-30,2016-02-01,2022-04-12,"3/4"" Brass FIPS needs 3/4"" pvc adapter",(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+86326458424073,2016-02-02,2016-02-02,2022-04-12,WORK: New Dev DCM license,(no section),Jim Sander,asana_user@jimsander.net,,,work,"Mine expired
+",BrainDump,
+86326458424066,2016-02-02,2016-05-26,2016-05-26,WORK: Notification from server_change ,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-03,work,every 10 days?,BrainDump,
+85740898610958,2016-02-01,2016-04-26,2016-04-26,WORK: Fix the MYSQL I fucked up for azure_demo,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-01,work,,BrainDump,
+85740898610936,2016-02-01,2016-02-02,2022-04-12,PLUMBING: 3/4 right angles,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+85740898610950,2016-02-01,2016-02-01,2022-04-12,STAMPS : call endicia,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+85740898610940,2016-02-01,2016-11-03,2016-11-03,OLD Address: change documents,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-05,,,BrainDump,
+117190422664806,2016-04-26,2016-04-26,2016-04-26,Fix DW Camera,(no section),Jim Sander,asana_user@jimsander.net,,,,Power Cycled  Linksys in Garage,BrainDump,
+229606094780393,2016-12-12,2016-12-13,2017-03-07,Fix Pumpkin,(no section),Jim Sander,asana_user@jimsander.net,,,truck ,"In some of the units, hit the RESET button in the hole, wait for the first boot logo (before the user-selectable one in your picture), and press power button 3 times ... do this deliberately, about a full second each press. If you do it too fast it won't work. Doing it before the first boot logo or after the second one shows, then it won't work. It will take some practice.
+
+The newer units, hit the reset button, then hold reset and power, wait for a soft tone, release reset, then release power. Wait one second, hit power to turn on unit. First boot logo will display and recovery will boot.
+
+",BrainDump,
+158127287023762,2016-07-21,2016-09-21,2022-04-12,Call Electric Tech about running 220 to garage,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+158127287023763,2017-10-30,2017-11-06,2022-04-12,TRUCK: How to remove hood bezel,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+117190422664807,2016-04-26,2016-04-26,2016-04-26,Get Clothes from Cleaners,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+86326458424123,2016-02-02,2016-02-03,2022-04-12,Plumbing Parts,(no section),Jim Sander,asana_user@jimsander.net,,2016-02-03,,"'- 3/4 crimp rings 
+- ",BrainDump,
+86326458424127,2016-02-02,2016-04-26,2022-04-12,Kitchen Outlet - 2 GFCI Outlets,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+92238494206987,2016-02-20,2016-11-03,2022-04-12,Refrigerator Outlet,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+92238494206989,2016-02-20,2016-04-26,2022-04-12,Trim Trees,(no section),Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+92238494206997,2016-02-20,2016-04-26,2022-04-12,openHab,(no section),Jim Sander,asana_user@jimsander.net,,,automation,,BrainDump,
+91947799369625,2016-02-19,2016-04-26,2022-04-12,Change Oil : Z-Turn,(no section),Jim Sander,asana_user@jimsander.net,,,,About time I bet,BrainDump,
+44723461541539,2015-08-07,2015-10-05,2015-10-05,Fix Truck AC/Fan ... ,Truck,Jim Sander,asana_user@jimsander.net,,,,"Making some minor noise
+
+",BrainDump,
+44723461541558,2015-08-07,2015-08-26,2015-08-26,Install Side Step,Truck,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+117190422664805,2016-04-26,2016-11-03,2016-11-03,Change Truck Reverse Light,Truck,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+44723461541560,2015-08-07,2016-11-03,2016-11-03,Fix rear speakers,Truck,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+44723461541562,2015-08-07,2015-08-07,2022-04-12,Tap Cross-threaded drivers seat bolts,Truck,Jim Sander,asana_user@jimsander.net,,,"truck ,fix",,BrainDump,
+44723461541575,2015-08-07,2022-04-12,2022-04-12,Unlock house door(s) upon arriving home,Tasker,Jim Sander,asana_user@jimsander.net,,,,"Criteria Ideas:
+Triggering
+- Truck Tasker sensing 'Home'
+- Phone Tasker sensing 'Home'  
+Confirmation
+- Prompt for open
+
+Grouping:
+- Make a part of arriving home
+
+Todo: 
+How to determine when leaving/arriving
+- state change from Connected to Truck or Home, but.
+- need a standalone (phone, but no truck OR truck, but no phone)
+  ",BrainDump,
+44723461541577,2015-08-07,2017-04-28,2022-04-12,Install Tasker Plugin : processes,Tasker,Jim Sander,asana_user@jimsander.net,,,,There's a 3rd party Process App,BrainDump,
+44723461541543,2015-08-07,2015-08-07,2022-04-12,Install the Gate Lock,Tasker,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+15328169784980,2014-08-06,2015-06-24,2015-06-24,Test Task,Tasker,Jim Sander,asana_user@jimsander.net,,,,"Next
+
+""You can't get much done in life if you only work on the days when you feel good.""- Jerry West
+
+Jim Sander
+
+jim.sander@jdsmedia.net <mailto:jim.sander@jdsmedia.net>
+ph: (512)809-1508
+fax; (512)842-7353
+Cloud / DevOps
+GoogleTalk: jimsander@jimsander.net <mailto:jimsander@jimsander.net>
+
+Skype: jimsander",BrainDump,
+10499919794006,2014-02-24,2014-02-24,2014-02-24,Farmers: WTF Home Policy's ,Tasker,Jim Sander,asana_user@jimsander.net,,,,"Policy's were cancelled and new ones created, looks like escrows are disconnected ",BrainDump,
+1202116753119108,2022-04-12,,2022-04-14,Flaco Eye Appointment on Thursday,Personal,Jim Sander,asana_user@jimsander.net,,2022-04-14,,,"BrainDump,Personal",
+1202116788937614,2022-04-12,,2022-04-12,api_for asana,Personal,,,,,,,BrainDump,
+1202116788937616,2022-04-12,,2022-04-14,jdsnas1 Backup,Personal,Jim Sander,asana_user@jimsander.net,,,,"Create another partition to archive data from jdsnas1
+Keep all ",BrainDump,
+1202116788937622,2022-04-12,,2022-04-12,export JDS2TB1 for use on MAC,Personal,,,,,,,BrainDump,
+37562431398549,2015-06-12,2015-06-17,2015-06-17,Mower Blade - take it with you to Austin,Personal,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+37562431398551,2015-06-12,2015-06-18,2022-04-12,Haircut @ 1:30,Personal,Jim Sander,asana_user@jimsander.net,,2015-06-12,,,BrainDump,
+15328349794975,2014-08-06,2014-10-08,2014-10-08,"Setup Droplet webserver/remotebox, get off EC2",Personal,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15328349794977,2014-08-06,2022-04-12,2022-04-12,Setup AWS Signature,Personal,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+17478186431742,2014-10-08,2015-06-11,2015-06-11,Cleanup AWS S3 Buckets - use the CLI,Personal,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15328349794993,2014-08-06,2014-08-06,2014-08-06,Setup HelloSign Signature,Personal,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15328349794995,2014-08-06,2015-06-11,2015-06-11,Setup jimsander.net on Droplet (jdsdrop1),Personal,Jim Sander,jimsander@jimsander.net,,2014-08-08,,,BrainDump,
+15328349795005,2014-08-06,,2014-08-06,DNS:,,,,,,,,,Setup jimsander.net on Droplet (jdsdrop1)
+15335423064406,2014-08-06,,2014-08-06,GEN:,,,,,,,,,Setup jimsander.net on Droplet (jdsdrop1)
+15327695310932,2014-08-06,2014-08-08,2014-08-08,Truck to JustJeeps : U-Joint and brake check,Personal,Jim Sander,jimsander@jimsander.net,,2014-08-07,,,BrainDump,
+15380004871502,2014-08-08,2015-06-11,2015-06-11,Truck JustJeeps: OilLeak / Ball Joints (All day),Personal,Jim Sander,jimsander@jimsander.net,,2014-08-18,,,BrainDump,
+15501905974015,2014-08-14,2014-08-15,2014-08-15,Amplify: Motorcycle Insurance,Personal,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+12681303619361,2014-05-28,,2016-02-01,Fix JDSMedia Site,WebShit,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+15328349794986,2014-08-06,2022-04-12,2022-04-12,Web: Begin RapidResults Conversion,WebShit,Jim Sander,asana_user@jimsander.net,,,,"Site is heavy and cumbersome, will be a new project",BrainDump,
+63524535685268,2015-11-04,2016-04-26,2016-04-26,Bill PRSAtlanta for back work since June (forgot to invoice),WebShit,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+63524535685272,2015-11-04,2016-11-03,2016-11-03,Cleanup Rackspace directories,WebShit,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+40069419247537,2015-07-02,,2016-12-15,Setup Reseller page for Enom ($45 per domain),WebShit,Jim Sander,asana_user@jimsander.net,,,,Sub tasks: https://github.com/jimsander/DeveloperSupport,BrainDump,
+15685343995744,2014-08-22,2014-09-03,2014-09-03,How to Bill 2214 / ,WebShit,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15552807168877,2014-08-15,2014-08-20,2014-08-20,Pay: Google Wallet (ensure Amex is caught up),WebShit,Jim Sander,jimsander@jimsander.net,,2014-08-20,,,BrainDump,
+15552807168879,2014-08-15,2014-08-20,2014-08-20,"Amex: come on, take my money",WebShit,Jim Sander,jimsander@jimsander.net,,2014-08-18,,,BrainDump,
+15552807168891,2014-08-18,2016-02-02,2016-02-02,2013 Taxes,WebShit,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15552807168893,2014-08-18,2015-06-11,2015-06-11,Betterment Breakdown,WebShit,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15552807168895,2014-08-18,2014-10-08,2014-10-08,HomeDepot Receipts for repairs on 2214,WebShit,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15552807168897,2014-08-18,2015-06-11,2015-06-11,1098s for Austin House.,WebShit,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15552807168887,2014-08-15,,2022-04-12,Elgin:,Elgin,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+15437304468890,2014-08-12,2014-08-13,2014-08-13,Hardware Store: No Trespassing Signs,Elgin,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15328349794989,2014-08-06,2022-04-12,2022-04-12,Follow-Up with Recruiters (See Learn tasks),Elgin,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9548140261238,2014-01-13,2014-02-26,2022-04-12,Call Rueben @ f3 movement - can't do 6 on CF days,Elgin,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9548140261270,2014-01-13,2014-01-29,2022-04-12,Betterment $800??,Elgin,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9548140261274,2014-01-14,2014-05-28,2014-05-28,Laptop to Applestore on Friday,Elgin,Jim Sander,asana_user@jimsander.net,,2014-02-06,,,BrainDump,
+15552807168881,2014-08-15,2015-06-24,2015-06-24,Elgin: Gate Opener,Elgin,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15552807168885,2014-08-15,2015-06-24,2015-06-24,Elgin: New Trees,Elgin,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+92238494207001,2016-02-20,,2022-04-12,insall mono and isylink on jdsrpi,LEARN,Jim Sander,asana_user@jimsander.net,,,automation,,BrainDump,
+37562431398547,2015-06-12,,2022-04-12,Javascript and Node.js,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+16079697866941,2014-09-09,2015-06-12,2015-06-12,Autodesk: Documentation: production env,LEARN,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+16079697866943,2014-09-09,2015-06-12,2015-06-12,DCM K16: SAML,LEARN,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+16079697866945,2014-09-09,,2016-05-26,CHEF: agent cookbook,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+17619601595654,2014-10-10,,2016-05-26,kanban reporting API,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+17619601595656,2014-10-10,,2016-05-26,Server reporting tool,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+17619601595658,2014-10-10,,2016-05-26,Learn Oauth2 Framework,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+15335680189825,2014-08-06,2014-09-09,2014-09-09,VPN Research for AWS/Unisys,LEARN,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15327695310934,2014-08-06,2014-09-09,2014-09-09,FogBugz (4866 and 4616) : Instance Store ,LEARN,Jim Sander,jimsander@jimsander.net,,2014-08-08,,"
+",BrainDump,
+15380004871510,2014-08-08,2014-09-09,2014-09-09,Unisys: stage jar,LEARN,Jim Sander,jimsander@jimsander.net,,2014-08-08,,,BrainDump,
+15397176511549,2014-08-11,2014-09-09,2014-09-09,ec2,LEARN,Jim Sander,jimsander@jimsander.net,,,,,BrainDump,
+15328170522667,2015-06-24,,2015-06-24,Docker : on a raspberryPi,LEARN,Jim Sander,asana_user@jimsander.net,,,,"http://blog.hypriot.com/post/dockercon2015/
+",BrainDump,
+38960564300903,2015-06-24,,2022-04-12,Docker: swarm - clustering,LEARN,Jim Sander,asana_user@jimsander.net,,,,clustering,BrainDump,
+15327695310938,2015-06-24,2017-11-06,2022-04-12,Jenkins!,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+38960564300960,2015-06-24,,2022-04-12,Docker:  runc,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+38960564300962,2015-06-24,,2022-04-12,RabbitMQ Queuing and Exchanges,LEARN,Jim Sander,asana_user@jimsander.net,,,,re: home automation tasks and notifications,BrainDump,
+9548140261226,2014-01-13,2014-05-28,2014-05-28,Informatica : server_product ,LEARN,Jim Sander,asana_user@jimsander.net,,,"client_informatica,DSG",,BrainDump,
+9548140261228,2014-01-13,2014-05-28,2022-04-12,Informatica : user Login issues,LEARN,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+9548140261252,2014-01-13,2014-01-13,2014-01-13,Informatica: Re-Ran Dirsync ,LEARN,Jim Sander,asana_user@jimsander.net,,,,"2 users complained could not login today
+Found dirsync from this morning failed
+",BrainDump,
+15328349794979,2014-08-06,,2016-05-26,Research: http://www.wufoo.com/,Other,Jim Sander,asana_user@jimsander.net,,,,Forms development my ass,BrainDump,
+58890429704648,2015-10-18,,2015-12-28,Research: Tasker AutoApps API,Other,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+58890429704657,2015-10-19,,2022-04-12,Learn Lemur : Netflix certificate management,Other,Jim Sander,asana_user@jimsander.net,,,,,BrainDump,
+76492404867578,2015-12-28,,2015-12-28,Arduino as a PLC ,Other,Jim Sander,asana_user@jimsander.net,,,,"http://www.open-electronics.org/arduino-as-a-programmable-logic-controller-plc/
+
+See what we can do to replace the existing gateOpener
+
+",BrainDump,
+9548140261254,2014-01-13,2014-01-31,2014-01-31,Nike: Agent Handshake Issues ,Other,Jim Sander,asana_user@jimsander.net,,,client_nike,,BrainDump,
