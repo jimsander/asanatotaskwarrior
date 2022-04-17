@@ -3,8 +3,6 @@
 ## Simple steps to dump Asana For Task Warrior
 Won't go into the details of [Task Warrior](https://taskwarrior.org/), if you're here then likely already aware.
 
-'foo'
-
 ## Converting Asana to TaskWarrior tasks
 
 | 1. Export Asana tasks as CSV | <a href="img/asana_export.jpg" target="_blank" border="0"><img src="img/asana_export.jpg" width="203" height="110" /></a> |
